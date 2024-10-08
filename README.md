@@ -102,9 +102,18 @@ class ApiUrl {
   static const String baseUrl = 'http://10.99.4.182:8080'; //diganti lagi ke yg pdf ga pake punya sendiri wkwkwk
   static const String registrasi = baseUrl + '/registrasi';
 ```
-![registrasi sukses](gambar/registrasi-sukses.jpg)
-![registrasi gagal](gambar/registrasi-gagal.jpg)
-
+![registrasi sukses](loginui.jpg)
+![registrasi gagal](loginberhasil.jpg)
+![registrasi gagal](listproduk.jpg)
+![registrasi gagal](tambahproduk.jpg)
+![registrasi gagal](datasimpanjpg)
+![registrasi gagal](ubahproduk.jpg)
+![registrasi gagal](berhasildiubah.jpg)
+![registrasi gagal](detailproduk.jpg)
+![registrasi gagal](yakinhapus.jpg)
+![registrasi gagal](berhasilhapus.jpg)
+![registrasi gagal](sidemenu.jpg)
+![registrasi gagal](logout.jpg)
 
 ### Login
 1. Halaman login = login_page.dart
