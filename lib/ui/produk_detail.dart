@@ -20,7 +20,7 @@ class _ProdukDetailState extends State<ProdukDetail> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Detail Produk Rassya'),
+        title: const Text('Detail Produk'),
       ),
       body: Center(
         child: Column(
