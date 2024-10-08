@@ -16,7 +16,7 @@ Shift Lama : A
 ![Login Berhasil](loginberhasil.jpg)
 ![List Produk](listproduk.jpg)
 ![Tambah Produk](tambahproduk.jpg)
-![Simpan](datasimpanjpg)
+![Simpan](datasimpan.jpg)
 ![Ubah Produk](ubahproduk.jpg)
 ![Berhasil Ubah](berhasildiubah.jpg)
 ![Detail Produk](detailproduk.jpg)
