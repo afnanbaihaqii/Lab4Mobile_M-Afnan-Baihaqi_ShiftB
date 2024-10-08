@@ -1,12 +1,12 @@
 # tokokita
 
-Nama    : Rassya Hafizh Suharjo
+Nama    : M Afnan Baihaqi
 
-NIM     : H1D022068
+NIM     : H1D022080
 
-Shift Baru : A
+Shift Baru : B
 
-Shift Lama : D
+Shift Lama : A
 
 ## screenshot dan penjelasan serta kode
 
