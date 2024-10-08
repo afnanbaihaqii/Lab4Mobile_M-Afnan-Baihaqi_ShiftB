@@ -34,7 +34,7 @@ body: SingleChildScrollView(
                 _passwordKonfirmasiTextField(),
                 _buttonRegistrasi()
 ```
-![registrasi](gambar/registrasi.jpg)
+![registrasi](registrasiberhasil.jpg)
 
 2. Registrasi berhasil dan gagal = registrasi_page.dart -> registrasi_bloc.dart
 Jika memasukkan value ke TextField dan menekan registrasi, maka widget buttonRegistrasi akan memanggil method submit yang mengirimkan value nama, email, dan password ke registrasi_bloc.dart. jika registrasi berhasil maka akan memanggil showdialog SuccesDialog, sedangkan bila error/gagal akan memanggil WarningDialog
